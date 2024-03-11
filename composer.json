@@ -1,0 +1,11 @@
+{
+    "name": "seoxblock/seoxblock",
+    "description": "Seoxblock Twitch blocks.",
+    "type": "wordpress-plugin",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Seoxblock\\": "src"
+        }
+    }
+}
